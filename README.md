@@ -14,3 +14,5 @@ Ordinary Differential Equations: first- and second-order ODEs, driven oscillatio
 Calculus of Variations: derivation of Euler–Lagrange equations, applications to mechanics and conservation laws.
 
 Linear Algebra: matrices, determinants, eigenvalue problems, and physical interpretations.
+
+Tensor: (Not Completed)
