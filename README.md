@@ -16,3 +16,5 @@ Calculus of Variations: derivation of Euler–Lagrange equations, applications t
 Linear Algebra: matrices, determinants, eigenvalue problems, and physical interpretations.
 
 Tensor: (Not Completed)
+
+!!If you find any mistakes or have suggestions, feel free to open an issue or contact me.!!
